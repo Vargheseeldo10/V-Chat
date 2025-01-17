@@ -1,6 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
-import profile from "/profile.jpg";
+import profile from "/profile7.jpg";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Chat from "./components/Chat";
